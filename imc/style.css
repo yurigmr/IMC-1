@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     padding: 0;
     margin: 0;
@@ -52,7 +52,7 @@ input {
 }
 #i1:hover{
     background-color: rgb(0, 69, 86);
-=======
+}
 *{
     padding: 0;
     margin: 0;
@@ -106,5 +106,4 @@ input {
 }
 #i1:hover{
     background-color: rgb(0, 69, 86);
->>>>>>> 80762b5f335a9473944a5366e6fef30abf7cd243
 }
